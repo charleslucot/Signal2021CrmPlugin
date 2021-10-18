@@ -1,6 +1,3 @@
-# Signal2021CrmPlugin
-
-
 Thank you for watching our Signal 2021 Twilio Flex 101 session!
 
 Step 1:
